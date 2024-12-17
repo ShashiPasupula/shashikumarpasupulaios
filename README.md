@@ -5,7 +5,7 @@ GitHub Repository Link
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/shashikumarpasupula/shashikumarios.git
+git clone https://github.com/ShashiPasupula/shashikumarpasupulaios/
 2. Install Prerequisites
 a. Android Studio (For Android-specific code):
 
@@ -52,7 +52,7 @@ Start the Development Server:
 In the terminal, navigate to the root of your project (if not already there):
 bash
 Copy code
-cd path/to/shashikumarios
+cd path/to/shashikumarpasupulaios/
 Run the following command to start the development server:
 bash
 Copy code
@@ -79,3 +79,5 @@ bash
 Copy code
 npm cache clean --force
 npm install
+
+please run this command npm start and click on a to run app in android enivorment 
